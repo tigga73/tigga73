@@ -14,7 +14,7 @@
   <img align="center" alt="Tigga-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <br><br>
 </div>
-- 🏢 Atualmente estou trabalhando na <a href="https://animaeducacao.com.br/" target="_blank">Ânima Educação</a>
-- 🌱 Estou aprendendo AWS Technologies
-- 📫 Me encontre em: <a href="mailto:tiagocardoso.dev@gmail.com">tiagocardoso.dev@gmail.com</a>
+- 🏢 Atualmente estou trabalhando na <a href="https://animaeducacao.com.br/" target="_blank">Ânima Educação</a><br>
+- 🌱 Estou aprendendo AWS Technologies<br>
+- 📫 Me encontre em: <a href="mailto:tiagocardoso.dev@gmail.com">tiagocardoso.dev@gmail.com</a><br>
 - ⚡ Fato engraçado: não consigo trabalhar se o meu escritório estiver desarrumado 😆
