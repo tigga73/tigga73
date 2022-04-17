@@ -1,13 +1,7 @@
-## Oi eu sou o Tiago Cardoso, dev Front-end e estudante de piano!
-<div align="center">
-  <a href="https://beacons.ai/tigga73">
-    <img height="140" src="https://github-readme-stats.vercel.app/api?username=tigga73&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigga73&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
+## Oi! Eu sou o Tiago Cardoso, dev front-end e estudante de piano!
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=tigga73&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=tigga73&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=tigga73&show_icons=true&theme=bear&include_all_commits=true&count_private=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=tigga73&theme=dark&hide_border=truer&include_all_commits=true&count_private=true" width = 400>
 </p>
 <div style="display: inline_block">
   <br>
