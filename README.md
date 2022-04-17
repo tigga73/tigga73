@@ -1,10 +1,14 @@
 ## Oi eu sou o Tiago Cardoso, dev Front-end e estudante de piano!
 <div align="center">
   <a href="https://beacons.ai/tigga73">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tigga73&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigga73&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="140" src="https://github-readme-stats.vercel.app/api?username=tigga73&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigga73&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=tigga73&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=tigga73&theme=dark&hide_border=true" width = 400>
+</p>
 <div style="display: inline_block">
   <br>
   <img align="center" alt="Tigga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,8 +20,7 @@
   <img align="center" alt="Tigga-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <br><br>
 </div>
- 
-- 🔭 Atualmente estou trabalhando na <a href="https://animaeducacao.com.br/" target="_blank">Ânima Educação</a>
+- 🏢 Atualmente estou trabalhando na <a href="https://animaeducacao.com.br/" target="_blank">Ânima Educação</a>
 - 🌱 Estou aprendendo AWS Technologies
-- 📫 Me encontre em: <a href="mailto:tiagocardoso.dev@gmail.com>tiagocardoso.dev@gmail.com</a>
+- 📫 Me encontre em: <a href="mailto:tiagocardoso.dev@gmail.com">tiagocardoso.dev@gmail.com</a>
 - ⚡ Fato engraçado: não consigo trabalhar se o meu escritório estiver desarrumado 😆
