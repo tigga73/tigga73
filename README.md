@@ -4,6 +4,4 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=bear&include_all_commits=true&count_private=true&langs_count=4" width=400>
 </p>
 - 🏢 Atualmente estou trabalhando na <a href="https://animaeducacao.com.br/" target="_blank">Ânima Educação</a><br>
-- 🌱 Estou aprendendo AWS Technologies<br>
 - 📫 Me encontre em: <a href="mailto:tiagocardoso.dev@gmail.com">tiagocardoso.dev@gmail.com</a><br>
-- ⚡ Fato engraçado: não consigo trabalhar se o meu escritório estiver desarrumado 😆
