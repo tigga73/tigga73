@@ -1,4 +1,4 @@
-## Oi! Eu sou o Tiago Cardoso, dev front-end e estudante de piano!
+## Oi! Eu sou o Tiago Cardoso, dev front-end e estudante de piano clássico!
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=tigga73&show_icons=true&theme=bear&include_all_commits=true&count_private=true" width=400>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=bear&include_all_commits=true&count_private=true&langs_count=4" width=400>
